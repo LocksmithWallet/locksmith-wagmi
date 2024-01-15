@@ -1,0 +1,27 @@
+{
+  "name": "locksmith-wagmi",
+  "version": "1.0.0",
+  "description": "Wagmi hook support for Locksmith SDK.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LocksmithWallet/locksmith-wagmi.git"
+  },
+  "keywords": [
+    "Locksmith",
+    "SDK",
+    "wagmi",
+    "javscript",
+    "frontend",
+    "dapp"
+  ],
+  "author": "Scott H Conner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LocksmithWallet/locksmith-wagmi/issues"
+  },
+  "homepage": "https://github.com/LocksmithWallet/locksmith-wagmi#readme"
+}
