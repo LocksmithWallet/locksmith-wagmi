@@ -1,5 +1,5 @@
-import * as Locksmith from './interfaces/Locksmith.json';
-import * as KeyLocker from './interfaces/KeyLocker.json';
+import * as Locksmith from './interfaces/ILocksmith.json';
+import * as KeyLocker from './interfaces/IKeyLocker.json';
 import { ethers } from 'ethers';
 
 export const LocksmithInterface = (function() {
