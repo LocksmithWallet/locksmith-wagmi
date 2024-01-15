@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/LocksmithWallet/locksmith-wagmi/issues"
   },
-  "homepage": "https://github.com/LocksmithWallet/locksmith-wagmi#readme"
+  "homepage": "https://github.com/LocksmithWallet/locksmith-wagmi#readme",
+  "dependencies": {
+    "wagmi": "^2.2.1"
+  }
 }
